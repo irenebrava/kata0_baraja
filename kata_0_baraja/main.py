@@ -10,3 +10,6 @@ print()
 
 baraja.barajar_for(b)
 print(b)
+
+mi_baraja = barajas.Baraja("A23456789SCR","OCEB")
+print(mi_baraja.naipes)
